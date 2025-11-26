@@ -1,14 +1,12 @@
-# Math Quiz
+# math-quiz
 
-## Setting the player name environment variable
+## Set the `PLAYER_NAME` environment variable
 
 ```bash
 export PLAYER_NAME=<player-name>
-
-bb quiz.clj
 ```
 
-## Starting the quize
+## Start the quiz
 
 ```bash
 bb quiz.clj
